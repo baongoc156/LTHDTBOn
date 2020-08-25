@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\bin\Debug\Cau3.exe.config
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\bin\Debug\Cau3.exe
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\bin\Debug\Cau3.pdb
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\obj\Debug\Cau3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\obj\Debug\Cau3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\obj\Debug\Cau3.exe
+C:\Users\Admin\Desktop\HOC\LTHDT\OnThiHDT\Cau3\obj\Debug\Cau3.pdb
